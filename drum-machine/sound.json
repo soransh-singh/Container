@@ -1,0 +1,56 @@
+[
+  {
+    "keyCode": 81,
+    "keyTrigger": "Q",
+    "id": "bubbles",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/bubbles.mp3?raw=true"
+  },
+  {
+    "keyCode": 87,
+    "keyTrigger": "W",
+    "id": "clay",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/clay.mp3?raw=true"
+  },
+  {
+    "keyCode": 69,
+    "keyTrigger": "E",
+    "id": "confetti",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/confetti.mp3?raw=true"
+  },
+  {
+    "keyCode": 65,
+    "keyTrigger": "A",
+    "id": "corona",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/corona.mp3?raw=true"
+  },
+  {
+    "keyCode": 83,
+    "keyTrigger": "S",
+    "id": "dotted-spiral",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/dotted-spiral.mp3?raw=true"
+  },
+  {
+    "keyCode": 68,
+    "keyTrigger": "D",
+    "id": "flash-1",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-1.mp3?raw=true"
+  },
+  {
+    "keyCode": 90,
+    "keyTrigger": "Z",
+    "id": "flash-2",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-2.mp3?raw=true"
+  },
+  {
+    "keyCode": 88,
+    "keyTrigger": "X",
+    "id": "flash-3",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-3.mp3?raw=true"
+  },
+  {
+    "keyCode": 67,
+    "keyTrigger": "C",
+    "id": "glimmer",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/glimmer.mp3?raw=true"
+  }
+]
