@@ -2,55 +2,55 @@
   {
     "keyCode": 81,
     "keyTrigger": "Q",
-    "id": "bubbles",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/bubbles.mp3?raw=true"
+    "id": "boom",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/boom.wav?raw=true"
   },
   {
     "keyCode": 87,
     "keyTrigger": "W",
-    "id": "clay",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/clay.mp3?raw=true"
+    "id": "clap",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/clap.wav?raw=true"
   },
   {
     "keyCode": 69,
     "keyTrigger": "E",
-    "id": "confetti",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/confetti.mp3?raw=true"
+    "id": "hihat",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/hihat.wav?raw=true"
   },
   {
     "keyCode": 65,
     "keyTrigger": "A",
-    "id": "corona",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/corona.mp3?raw=true"
+    "id": "kick",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/kick.wav?raw=true"
   },
   {
     "keyCode": 83,
     "keyTrigger": "S",
-    "id": "dotted-spiral",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/dotted-spiral.mp3?raw=true"
+    "id": "openhat",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/openhat.wav?raw=true"
   },
   {
     "keyCode": 68,
     "keyTrigger": "D",
-    "id": "flash-1",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-1.mp3?raw=true"
+    "id": "ride",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/ride.wav?raw=true"
   },
   {
     "keyCode": 90,
     "keyTrigger": "Z",
-    "id": "flash-2",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-2.mp3?raw=true"
+    "id": "snare",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/snare.wav?raw=true"
   },
   {
     "keyCode": 88,
     "keyTrigger": "X",
-    "id": "flash-3",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/flash-3.mp3?raw=true"
+    "id": "tink",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/tink.wav?raw=true"
   },
   {
     "keyCode": 67,
     "keyTrigger": "C",
-    "id": "glimmer",
-    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/glimmer.mp3?raw=true"
+    "id": "tom",
+    "url": "https://github.com/soransh-singh/Container/blob/main/drum-machine/sounds/tom.wav?raw=true"
   }
 ]
