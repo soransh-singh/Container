@@ -3,16 +3,16 @@
     "title": "Work",
     "timeframes": {
       "daily": {
-        "current": 5,
-        "previous": 7
+        "current": "5hrs",
+        "previous": "7hrs"
       },
       "weekly": {
-        "current": 32,
-        "previous": 36
+        "current": "32hrs",
+        "previous": "36hrs"
       },
       "monthly": {
-        "current": 103,
-        "previous": 128
+        "current": "103hrs",
+        "previous": "128hrs"
       }
     }
   },
@@ -20,16 +20,16 @@
     "title": "Play",
     "timeframes": {
       "daily": {
-        "current": 1,
-        "previous": 2
+        "current": "1hr",
+        "previous": "2hrs"
       },
       "weekly": {
-        "current": 10,
-        "previous": 8
+        "current": "10hrs",
+        "previous": "8hrs"
       },
       "monthly": {
-        "current": 23,
-        "previous": 29
+        "current": "23hrs",
+        "previous": "29hrs"
       }
     }
   },
@@ -37,16 +37,16 @@
     "title": "Study",
     "timeframes": {
       "daily": {
-        "current": 0,
-        "previous": 1
+        "current": "0hrs",
+        "previous": "1hr"
       },
       "weekly": {
-        "current": 4,
-        "previous": 7
+        "current": "4hrs",
+        "previous": "7hrs"
       },
       "monthly": {
-        "current": 13,
-        "previous": 19
+        "current": "13hrs",
+        "previous": "19hrs"
       }
     }
   },
@@ -54,16 +54,16 @@
     "title": "Exercise",
     "timeframes": {
       "daily": {
-        "current": 1,
-        "previous": 1
+        "current": "1hr",
+        "previous": "1hr"
       },
       "weekly": {
-        "current": 4,
-        "previous": 5
+        "current": "4hrs",
+        "previous": "5hrs"
       },
       "monthly": {
-        "current": 11,
-        "previous": 18
+        "current": "11hrs",
+        "previous": "18hrs"
       }
     }
   },
@@ -71,16 +71,16 @@
     "title": "Social",
     "timeframes": {
       "daily": {
-        "current": 1,
-        "previous": 3
+        "current": "1hr",
+        "previous": "3hrs"
       },
       "weekly": {
-        "current": 5,
-        "previous": 10
+        "current": "5hrs",
+        "previous": "10hrs"
       },
       "monthly": {
-        "current": 21,
-        "previous": 23
+        "current": "21hrs",
+        "previous": "23hrs"
       }
     }
   },
@@ -88,16 +88,16 @@
     "title": "Self Care",
     "timeframes": {
       "daily": {
-        "current": 0,
-        "previous": 1
+        "current": "0hrs",
+        "previous": "1hr"
       },
       "weekly": {
-        "current": 2,
-        "previous": 2
+        "current": "2hrs",
+        "previous": "2hrs"
       },
       "monthly": {
-        "current": 7,
-        "previous": 11
+        "current": "7hrs",
+        "previous": "11hrs"
       }
     }
   }
